@@ -6,7 +6,7 @@ This project was created as a hobby to practice **Full Stack Development**.
 ## 🚀 Tech Stack
 
 - **Frontend**: React (Vite), Axios, React Router
-- **Backend**: Spring Boot, Spring Data JPA, MySQL (or H2)
+- **Backend**: Spring Boot, Spring Data JPA, MySQL
 - **Tools**: IntelliJ IDEA (Backend), VS Code (Frontend), GitHub, Git, Postman
 
 ## ✨ Features
