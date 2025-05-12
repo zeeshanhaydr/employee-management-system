@@ -41,6 +41,11 @@ npm run dev
  - Configure the MySQL database settings in the application.properties file under ems-backend/src/main/resources/
  - Configure your React app’s API URL in the frontend.
 
+📝 License
+This project is open-source and available under the MIT License.
 
+👤 Author
+Zeeshan Haider
+GitHub: https://github.com/zeeshanhaydr
 
 
